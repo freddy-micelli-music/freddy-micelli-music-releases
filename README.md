@@ -22,7 +22,7 @@ Le menu sous la molette permet de choisir **Volume du lecteur / écran HDMI** po
 
 ## Distribution macOS
 
-Cette version possède une signature locale et n’est pas notarifiée par Apple. macOS peut en bloquer l’ouverture sur un autre Mac.
+À partir de la version 1.1.8, l’application est signée avec un certificat Developer ID et notarisée par Apple. Le ticket de notarisation est intégré au lecteur. La distribution est proposée directement ici sur GitHub, hors Mac App Store.
 
 Ce dépôt contient les téléchargements et le flux de mise à jour, pas le code source du projet ni les clés privées.
 
