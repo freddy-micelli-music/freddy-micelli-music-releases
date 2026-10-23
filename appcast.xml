@@ -7,16 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 <description>Mises à jour officielles de Freddy Micelli Music pour macOS</description>
 <language>fr</language>
 <item>
-<title>Freddy Micelli Music 1.1.6</title>
+<title>Freddy Micelli Music 1.1.7</title>
 <pubDate>Fri, 23 Oct 2026 12:00:00 +0200</pubDate>
-<sparkle:version>10</sparkle:version>
-<sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+<sparkle:version>11</sparkle:version>
+<sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
 <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<h2>Freddy Micelli Music 1.1.6</h2><p>Vérification des mises à jour au démarrage et indicateur sous l’égaliseur. Mode Spotify externe et volume logiciel pour les fichiers et radios.</p><p>Installation après votre confirmation.</p>]]></description>
-<enclosure url="https://github.com/freddy-micelli-music/freddy-micelli-music-releases/releases/download/v1.1.6/Freddy-Micelli-Music-1.1.6.zip" type="application/octet-stream" sparkle:edSignature="8h/2RFc+VIrRaLF4THTQJyl4dYaeMFFkaP8EIZmysSLyd23E7Kn0IE+dE//1Lq4Lt9LLtKuFw7hjy5idyov0AQ==" length="8264376"></enclosure>
+<description><![CDATA[<h2>Freddy Micelli Music 1.1.7</h2><p>Vérification des mises à jour au démarrage et indicateur sous l’égaliseur. Mode Spotify externe et volume logiciel pour les fichiers et radios.</p><p>Installation après votre confirmation.</p>]]></description>
+<enclosure url="https://github.com/freddy-micelli-music/freddy-micelli-music-releases/releases/download/v1.1.7/Freddy-Micelli-Music-1.1.7.zip" type="application/octet-stream" sparkle:edSignature="NBS+4qf+8IflVLdTtpOIu28TGA/dpraeXFY6hPBnGaSv376qCZtZ/wyF4uGPmAdEfI3wgEoCJjCUYJdPnxSeCg==" length="8265220"></enclosure>
 </item>
 </channel>
 </rss><!-- sparkle-signatures:
-edSignature: x9KEgcFQV2W5+45Tu0bL7CB6tDv1TXO0V5pS9vlPY+e0ap7J8YC0hexwQ/jpe0SBbddQYziXqtRH6A02VsOfDw==
+edSignature: zxSiigT6egRkvc3+Un+5RkkLWMELk6CSUXIZPpJL00OcNN3ZuAM1EusJVWNsRkZyjFfRnqEMcNuF+5Svfz58Cg==
 length: 1505
 -->
