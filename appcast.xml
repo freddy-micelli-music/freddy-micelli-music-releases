@@ -20,3 +20,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 edSignature: u7DN5UpYN2VVS+xpzy9TxXrtgFhBawd69NtQCGNGa1HizGGXJeuFazNpHrzUPVSntquWoIC6Uh2auoPXpdM2Bg==
 length: 1630
 -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Freddy Micelli Music</title>
+<link>https://github.com/freddy-micelli-music/freddy-micelli-music-releases</link>
+<description>Mises à jour officielles de Freddy Micelli Music pour macOS</description>
+<language>fr</language>
+<item>
+<title>Freddy Micelli Music 1.1.9</title>
+<pubDate>Sun, 25 Oct 2026 10:41:51 +0100</pubDate>
+<sparkle:version>14</sparkle:version>
+<sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<h2>Freddy Micelli Music 1.1.9</h2><p>Le mode Spotify intégré mémorise maintenant son autorisation dans le trousseau sécurisé du Mac et renouvelle automatiquement son accès après relance. La déconnexion volontaire efface cette autorisation. Une nouvelle connexion sera nécessaire la première fois avec cette version.</p><p>Version signée et notarisée par Apple. Mac Intel et Apple Silicon, macOS 14 minimum.</p>]]></description>
+<enclosure url="https://github.com/freddy-micelli-music/freddy-micelli-music-releases/releases/download/v1.1.9/Freddy-Micelli-Music-1.1.9.zip" type="application/octet-stream" sparkle:edSignature="3K3sKUDXbl6wl9BfrLReZysN6c+APg50c2yBJxsNpCGUszrzF60aC28LRHlNuuLLDNICfDJjmFaB4gC+sZsoBw==" length="8356538"></enclosure>
+</item>
+</channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: NHn4sBI2u6tv8gvbHw1+3yTGjdyaGzQwa2EWJBDC0BUzMcZshdovS0RpldINyNcOkKwpcmalC24u/fvXlYveDQ==
+length: 1456
+-->
